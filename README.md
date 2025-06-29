@@ -2,7 +2,7 @@
 
 ### **1. How can I ensure that my code, program, or software is functional and secure?**<br/>
 <br/>
-    - I can ensure that my code or programs are functional by creating a series of tests that endure the functionality of my code is compliant with whatever                         specifications or requirements I designed the code around. They can additionally help with security by checking a plethora of situations or environments to help identify      and address a wide variety of edge cases (in which my code may be intentionally or otherwise misused). By preparing my programs (through checking and adjusting for edge       cases), I help to mminimize the risk that my code could be vulnerable to misuse or responsible for unintended (and untested) results.
+- I can ensure that my code or programs are functional by creating a series of tests that endure the functionality of my code is compliant with whatever                         specifications or requirements I designed the code around. They can additionally help with security by checking a plethora of situations or environments to help identify      and address a wide variety of edge cases (in which my code may be intentionally or otherwise misused). By preparing my programs (through checking and adjusting for edge       cases), I help to mminimize the risk that my code could be vulnerable to misuse or responsible for unintended (and untested) results.
     
 ### **2. How do I interpret user needs and incorporate them into a program?**<br/>
 <br/>
