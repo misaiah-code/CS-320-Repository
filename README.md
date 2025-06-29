@@ -1,10 +1,10 @@
 # CS-320-Repository
 
-**1. How can I ensure that my code, program, or software is functional and secure?**
+**1. How can I ensure that my code, program, or software is functional and secure?**<br/>
     I can ensure that my code or programs are functional by creating a series of tests that endure the functionality of my code is compliant with whatever                         specifications or requirements I designed the code around. They can additionally help with security by checking a plethora of situations or environments to help identify      and address a wide variety of edge cases (in which my code may be intentionally or otherwise misused). By preparing my programs (through checking and adjusting for edge       cases), I help to mminimize the risk that my code could be vulnerable to misuse or responsible for unintended (and untested) results.
     
-**2. How do I interpret user needs and incorporate them into a program?**
+**2. How do I interpret user needs and incorporate them into a program?**<br/>
     I, personally, interpret and incorporate user needs through reading their requirements (in order) and then generating incredibly rough code outlines (with numerous            comments) made to specifically address those requirements. These small, unfinished snippets of code will go through numerous changes as I develop and better understand        how to best form my code around my given specifications. 
     
-**3. How do I approach designing software?**
+**3. How do I approach designing software?**<br/>
     The answer to this question was somewhat touched on by my prior two repsonses, but I start by reading my given requirements and generating incredibly rough code outlines      (based on what I quickly infer to be the best route to meeting said requirements), I then somewhat iterate over my code base, determining what needs to be changed or          adjusted to better ensure compliancy or functionality. Once I am mostly *finished with this process, I then go through the process of testing. Testing generally reveals       far more things that can be adjusted or changed (such as anticipating edge cases) within my code, and I make a careful and dedicated effort to impliment those necessary       changes.
